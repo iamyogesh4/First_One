@@ -7,6 +7,11 @@ class FirstFile
   {
     System.out.println("Welcome to my Account");
   }
+
+  void callme()
+  {
+    System.out.println("I'm New Here");
+  }
   
 }
 
